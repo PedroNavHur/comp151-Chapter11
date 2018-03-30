@@ -5,7 +5,7 @@
 using namespace std;
 
 // Pedro J. Navarrete
-// V0.00
+// V1.00
 
 const string MONTHS[] = {
 	"January", "February", "March", "April",
